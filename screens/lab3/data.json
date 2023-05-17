@@ -1,0 +1,41 @@
+[
+    {
+      "id": 1,
+      "initials": "Shylo P.V",
+      "address": "boulevard Shevchenka 245",
+      "phone": "+380675555555"
+    },
+    {
+    "id": 2,
+    "initials": "Ivanov I.I.",
+    "address": "street Gogolya 10",
+    "phone": "+38011111111"
+    },
+    
+    {
+    "id": 3,
+    "initials": "Petrova M.A.",
+    "address": "boulevard Shevchenka 34",
+    "phone": "+54991234567"
+    },
+    
+    {
+    "id": 4,
+    "initials": "Smith J.",
+    "address": "123 Main St.",
+    "phone": "+15555551234"
+    },
+    
+    {
+    "id": 5,
+    "initials": "Kim T.",
+    "address": "456 Maple Ave.",
+    "phone": "+12125551212"
+    },
+    {
+    "id": 6,
+    "initials": "Garcia L.",
+    "address": "789 Oak St.",
+    "phone": "+14125551212"
+    }
+]
